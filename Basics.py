@@ -1,5 +1,5 @@
 
-#%%
+
 # Print to the console.
 print("Hello, world!")
 #%%
@@ -57,7 +57,7 @@ def is_adult(age):
         print('minor')
 #%%
 # Use the function that was just created.
-is_adult(18)
+is_adult(18)--
 #%%
 # Use the function that was just created.
 is_adult(17)
