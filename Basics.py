@@ -53,7 +53,7 @@ def is_adult(age):
 
     if age >= 18:
         print('adult')
-    else:
+    else
         print('minor')
 #%%
 # Use the function that was just created.
@@ -65,7 +65,7 @@ is_adult(17)
 # Use the built-in sorted() function.
 new_list = [20, 25, 10, 5]
 
-sorted(new_list)
+sorted(new_listi)
 #%% md
 <a name="2"></a>
 ## 2. [Jupyter Notebooks](https://www.coursera.org/learn/get-started-with-python/lecture/2l42i/jupyter-notebooks)
